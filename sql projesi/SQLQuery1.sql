@@ -1,0 +1,4 @@
+CREATE DATABASE RagHybridDB;
+GO
+USE RagHybridDB;
+GO
